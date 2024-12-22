@@ -1,69 +1,70 @@
-**Política de Privacidad**  
-Última actualización: [22/12/2024]
+**Privacy Policy**
+Last updated: [12/22/2024]
 
-### 1. **Introducción**  
-Lowest (en adelante, "el Bot") respeta tu privacidad y se compromete a proteger la información que recopila durante su uso. Esta Política de Privacidad describe qué datos recopilamos, cómo los usamos y cómo los protegemos.
-
----
-
-### 2. **Información que Recopilamos**
-El Bot puede recopilar los siguientes datos:
-- **Información básica del usuario:** IDs de usuario, nombres de usuario y avatares.
-- **Mensajes:** Contenido de mensajes solo si el Bot requiere acceso para cumplir con sus funcionalidades (como comandos específicos o moderación). 
-- **Información del servidor:** IDs de servidores, nombres de servidores y configuraciones específicas.
-- **Historial de acciones:** Datos relacionados con interacciones del Bot (por ejemplo, uso de comandos o logs).
-
-**Nota:** Nunca recopilamos información personal sensible como contraseñas o información financiera.
+### 1. **Introduction**
+Lowest (hereinafter "the Bot") respects your privacy and is committed to protecting the information it collects during your use of the Bot. This Privacy Policy describes what data we collect, how we use it, and how we protect it.
 
 ---
 
-### 3. **Cómo Usamos la Información**
-La información recopilada se utiliza exclusivamente para los siguientes fines:
-- Proporcionar y mejorar las funcionalidades del Bot.
-- Detectar y prevenir usos indebidos.
-- Analizar estadísticas internas para mejorar el rendimiento del Bot.
-- Proporcionar soporte técnico y responder a consultas.
+### 2. **Information We Collect**
+The Bot may collect the following data:
+- **Basic User Information:** User IDs, usernames, and avatars.
+- **Messages:** Message content only if the Bot requires access to perform its functionalities (such as specific commands or moderation).
+
+- **Server Information:** Server IDs, server names, and specific settings.
+- **Action History:** Data related to Bot interactions (e.g. command usage or logs).
+
+**Note:** We never collect sensitive personal information such as passwords or financial information.
 
 ---
 
-### 4. **Almacenamiento y Seguridad de los Datos**
-- Los datos se almacenan de manera segura utilizando bases de datos encriptadas, servidores protegidos, etc.
-- Solo se mantienen los datos durante el tiempo necesario para cumplir con los propósitos mencionados. En caso de que ya no sean necesarios, se eliminan automáticamente.
+### 3. **How ​​We Use Information**
+The information collected is used exclusively for the following purposes:
+- To provide and improve the Bot's functionalities.
+- To detect and prevent misuse.
+- To analyze internal statistics to improve the Bot's performance.
+- To provide technical support and respond to queries.
 
 ---
 
-### 5. **Compartición de Información**
-No compartimos, vendemos ni alquilamos tus datos a terceros, excepto en los siguientes casos:
-- Cuando sea requerido por la ley o en respuesta a solicitudes legales.
-- Para garantizar la seguridad y funcionalidad del Bot (por ejemplo, a través de proveedores de hosting o servicios necesarios).
+### 4. **Data Storage and Security**
+- Data is stored securely using encrypted databases, protected servers, etc.
+- Data is only kept for as long as necessary to fulfill the purposes mentioned. In case it is no longer needed, it is automatically deleted.
 
 ---
 
-### 6. **Privileged Intents y Mensajes**
-Si el Bot utiliza Intents privilegiados (como `MESSAGE_CONTENT`), estos se habilitan únicamente para proporcionar funciones críticas. No analizamos ni almacenamos el contenido de los mensajes más allá de lo necesario para ejecutar comandos o funcionalidades específicas.
+### 5. **Information Sharing**
+We do not share, sell or rent your data to third parties, except in the following cases:
+- When required by law or in response to legal requests.
+- To ensure the security and functionality of the Bot (for example, through necessary hosting or service providers).
 
 ---
 
-### 7. **Derechos del Usuario**
-Como usuario, tienes los siguientes derechos:
-- **Acceso:** Solicitar qué datos tenemos sobre ti.
-- **Eliminación:** Solicitar la eliminación de tus datos si ya no deseas utilizar el Bot.
-- **Revocación del consentimiento:** Si has dado permiso para el uso de datos específicos, puedes revocarlo en cualquier momento.
-
-Para ejercer estos derechos, contáctanos en [discord](https://dsc.gg/ibfmstudios).
+### 6. **Privileged Intents and Messages**
+If the Bot uses privileged Intents (such as `MESSAGE_CONTENT`), these are enabled only to provide critical functionality. We do not analyze or store message content beyond what is necessary to execute specific commands or functionality.
 
 ---
 
-### 8. **Cookies y Tecnologías Similares**
-El Bot no utiliza cookies ni tecnologías de seguimiento directamente. Sin embargo, servicios de terceros asociados con el Bot podrían hacerlo. Consulta sus políticas de privacidad para más información.
+### 7. **User Rights**
+As a user, you have the following rights:
+- **Access:** Request what data we have about you.
+- **Deletion:** Request deletion of your data if you no longer wish to use the Bot.
+- **Revocation of consent:** If you have given permission for the use of specific data, you can revoke it at any time.
+
+To exercise these rights, please contact us at [discord](https://dsc.gg/ibfmstudios).
 
 ---
 
-### 9. **Modificaciones a esta Política**
-Podemos actualizar esta Política de Privacidad en cualquier momento. Notificaremos los cambios en [servidor de soporte, página web, etc.] y el uso continuo del Bot después de los cambios constituye la aceptación de los mismos.
+### 8. **Cookies and Similar Technologies**
+The Bot does not use cookies or tracking technologies directly. However, third-party services associated with the Bot may do so. Please refer to their privacy policies for more information.
 
 ---
 
-### 10. **Contacto**
-Si tienes dudas o inquietudes sobre esta Política de Privacidad, contáctanos en:  
+### 9. **Modifications to this Policy**
+We may update this Privacy Policy at any time. We will notify you of changes on [support server, website, etc.] and your continued use of the Bot after changes constitutes acceptance of those changes.
+
+---
+
+### 10. **Contact**
+If you have questions or concerns about this Privacy Policy, please contact us at:
 [Discord](https://dsc.gg/ibfmstudios)
