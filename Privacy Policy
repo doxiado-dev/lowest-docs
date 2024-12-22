@@ -1,0 +1,69 @@
+**Política de Privacidad**  
+Última actualización: [22/12/2024]
+
+### 1. **Introducción**  
+Lowest (en adelante, "el Bot") respeta tu privacidad y se compromete a proteger la información que recopila durante su uso. Esta Política de Privacidad describe qué datos recopilamos, cómo los usamos y cómo los protegemos.
+
+---
+
+### 2. **Información que Recopilamos**
+El Bot puede recopilar los siguientes datos:
+- **Información básica del usuario:** IDs de usuario, nombres de usuario y avatares.
+- **Mensajes:** Contenido de mensajes solo si el Bot requiere acceso para cumplir con sus funcionalidades (como comandos específicos o moderación). 
+- **Información del servidor:** IDs de servidores, nombres de servidores y configuraciones específicas.
+- **Historial de acciones:** Datos relacionados con interacciones del Bot (por ejemplo, uso de comandos o logs).
+
+**Nota:** Nunca recopilamos información personal sensible como contraseñas o información financiera.
+
+---
+
+### 3. **Cómo Usamos la Información**
+La información recopilada se utiliza exclusivamente para los siguientes fines:
+- Proporcionar y mejorar las funcionalidades del Bot.
+- Detectar y prevenir usos indebidos.
+- Analizar estadísticas internas para mejorar el rendimiento del Bot.
+- Proporcionar soporte técnico y responder a consultas.
+
+---
+
+### 4. **Almacenamiento y Seguridad de los Datos**
+- Los datos se almacenan de manera segura utilizando bases de datos encriptadas, servidores protegidos, etc.
+- Solo se mantienen los datos durante el tiempo necesario para cumplir con los propósitos mencionados. En caso de que ya no sean necesarios, se eliminan automáticamente.
+
+---
+
+### 5. **Compartición de Información**
+No compartimos, vendemos ni alquilamos tus datos a terceros, excepto en los siguientes casos:
+- Cuando sea requerido por la ley o en respuesta a solicitudes legales.
+- Para garantizar la seguridad y funcionalidad del Bot (por ejemplo, a través de proveedores de hosting o servicios necesarios).
+
+---
+
+### 6. **Privileged Intents y Mensajes**
+Si el Bot utiliza Intents privilegiados (como `MESSAGE_CONTENT`), estos se habilitan únicamente para proporcionar funciones críticas. No analizamos ni almacenamos el contenido de los mensajes más allá de lo necesario para ejecutar comandos o funcionalidades específicas.
+
+---
+
+### 7. **Derechos del Usuario**
+Como usuario, tienes los siguientes derechos:
+- **Acceso:** Solicitar qué datos tenemos sobre ti.
+- **Eliminación:** Solicitar la eliminación de tus datos si ya no deseas utilizar el Bot.
+- **Revocación del consentimiento:** Si has dado permiso para el uso de datos específicos, puedes revocarlo en cualquier momento.
+
+Para ejercer estos derechos, contáctanos en [discord](https://dsc.gg/ibfmstudios).
+
+---
+
+### 8. **Cookies y Tecnologías Similares**
+El Bot no utiliza cookies ni tecnologías de seguimiento directamente. Sin embargo, servicios de terceros asociados con el Bot podrían hacerlo. Consulta sus políticas de privacidad para más información.
+
+---
+
+### 9. **Modificaciones a esta Política**
+Podemos actualizar esta Política de Privacidad en cualquier momento. Notificaremos los cambios en [servidor de soporte, página web, etc.] y el uso continuo del Bot después de los cambios constituye la aceptación de los mismos.
+
+---
+
+### 10. **Contacto**
+Si tienes dudas o inquietudes sobre esta Política de Privacidad, contáctanos en:  
+[Discord](https://dsc.gg/ibfmstudios)
