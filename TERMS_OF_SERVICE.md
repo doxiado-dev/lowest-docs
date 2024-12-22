@@ -25,7 +25,7 @@ The Bot collects and stores data necessary for its operation, such as:
 - **Collected information:** [Example: user IDs, usernames, messages, etc.]
 - **Use of data:** This data is used exclusively to provide the Bot's functionalities and improve its performance.
 
-For more details, see our [Privacy Policy](https://github.com/doxiadoo/lowest/blob/main/Privacy%20Policy).
+For more details, see our [Privacy Policy](PRIVACY_POLICY.md).
 
 ---
 
