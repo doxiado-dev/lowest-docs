@@ -67,4 +67,4 @@ We may update this Privacy Policy at any time. We will notify you of changes on 
 
 ### 10. **Contact**
 If you have questions or concerns about this Privacy Policy, please contact us at:
-[Discord](https://dsc.gg/ibfmstudios)
+[Discord](https://discord.gg/WK9jeDUwNu)
