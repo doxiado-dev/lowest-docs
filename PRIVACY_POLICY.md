@@ -1,8 +1,8 @@
 **Privacy Policy**
-Last updated: [12/22/2024]
+Last updated: [19/08/2025]
 
 ### 1. **Introduction**
-Lowest (hereinafter "the Bot") respects your privacy and is committed to protecting the information it collects during your use of the Bot. This Privacy Policy describes what data we collect, how we use it, and how we protect it.
+Lush (hereinafter "the Bot") respects your privacy and is committed to protecting the information it collects during your use of the Bot. This Privacy Policy describes what data we collect, how we use it, and how we protect it.
 
 ---
 
@@ -51,7 +51,7 @@ As a user, you have the following rights:
 - **Deletion:** Request deletion of your data if you no longer wish to use the Bot.
 - **Revocation of consent:** If you have given permission for the use of specific data, you can revoke it at any time.
 
-To exercise these rights, please contact us at [discord](https://dsc.gg/ibfmstudios).
+To exercise these rights, please contact us at [discord](https://discord.gg/WK9jeDUwNu).
 
 ---
 
