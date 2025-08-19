@@ -1,8 +1,8 @@
 **Terms of Service**
-Last Updated: [12/22/2024]
+Last Updated: [19/08/2025]
 
 ### 1. **Acceptance of Terms**
-By using the Lowest bot (hereinafter "the Bot"), you agree to abide by these Terms of Service (TOS). If you do not agree with any of the terms, please do not use the Bot.
+By using the Lush bot (hereinafter "the Bot"), you agree to abide by these Terms of Service (TOS). If you do not agree with any of the terms, please do not use the Bot.
 
 ---
 
@@ -50,4 +50,4 @@ We reserve the right to update these TOS at any time. Modifications will be noti
 
 ### 8. **Contact**
 If you have questions or concerns about these Terms, please contact us at:
-[Discord](https://dsc.gg/ibfmstudios)
+[Discord](https://discord.gg/WK9jeDUwNu)
